@@ -17,4 +17,7 @@ By Daniel4-Scratch
 
 """
 
-def square(radius)
+def info(): print("Make sure you import the turtle module.")
+
+def square(radius):
+  
