@@ -8,6 +8,15 @@ P          G           G
 P          G           G 
 P          G           G
 P            G G G G G G
+ \
+   \
+    |
+  o o o o 
+o         o
+o         o
+o         o
+o         o
+  o o o o
 =======
 Version 1.0.0
 -Python Grape-
