@@ -18,7 +18,7 @@ o         o
 o         o
   o o o o
 =======
-Version 1.0.0
+Version 1.0.1
 -Python Grape-
 A simple python module.
 
