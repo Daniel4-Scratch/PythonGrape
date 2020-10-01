@@ -1,0 +1,2 @@
+if (c / fail)=>
+  stop 'program.csc.exe'
